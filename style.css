@@ -1,0 +1,27 @@
+.main-body{
+    width:400px;
+    height: 412px;
+    background: grey;
+    margin-left: 558px;
+    margin-top: 185px;
+}
+
+#screen{
+    width: 80%;
+    margin-left: 35px;
+    margin-top: 20px;
+    height: 49px;
+    pointer-events: none;
+}
+.btn{
+    width: 48px;
+    margin-left: 38px;
+    margin-top: 20px;
+    height: 40px;
+    background: darkslategrey;
+    color: white;
+    font-weight: bold;
+}
+body{
+    background:black;
+}
